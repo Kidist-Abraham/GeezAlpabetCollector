@@ -9,6 +9,8 @@ import android.widget.Button;
 
 /**
  * Created by kidist on 7/24/17.
+ *
+ * This is the main activity.
  */
 
 public class Start extends AppCompatActivity implements View.OnClickListener {
